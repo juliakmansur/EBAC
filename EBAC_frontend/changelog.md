@@ -1,4 +1,5 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
@@ -7,11 +8,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.2] - 2023-11-23
 
 ### Added
-- created 'Formulario de Validação - Integrando HTML & JavaScript' - v 1.0
 
+- created 'Formulario de Validação - Integrando HTML & JavaScript' - v 1.0
 
 ## [0.0.1] - 2023-05-07
 
 ### Added
-- Adding file > 'changelog.md'
 
+- Adding file > 'changelog.md'
